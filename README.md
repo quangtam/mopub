@@ -23,6 +23,10 @@ Some Handy Links
 
 [The Cake Software Foundation](http://cakefoundation.org/) - promoting development related to CakePHP
 
+[Mobile Advertising Network](http://mad.vn/) - Mobile Advertising Network
+
+[Wap Builder](http://wapmienphi.com/) - Free Wap Builder
+
 Get Support!
 ------------
 
