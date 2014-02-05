@@ -27,6 +27,12 @@ Some Handy Links
 
 [Wap Builder](http://wapmienphi.com/) - Free Wap Builder
 
+[Tai Game](http://mtai.us) - Tải Game miễn phí
+
+[Game Android](http://appfree.vn/a/game/) - Game Android miễn phí
+
+[Top Wap](http://top1.mobi/) - Top Wap Wordwide
+
 Get Support!
 ------------
 
